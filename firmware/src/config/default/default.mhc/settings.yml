@@ -1,0 +1,14 @@
+configName: default
+folderName: ALF_MK01_V17
+format_version: v1.0
+frameworkPath: ..\..\Harmony3
+processor: PIC32CM1216MC00032
+projectName: ALF_MK01_V17
+settings:
+  PackageFilter: bsp;core;csp;dev_packs;harmony-services;quick_docs
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  CMSISPath: .\dev_packs\arm\CMSIS\5.8.0
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: .\dev_packs\Microchip\PIC32CM-MC_DFP\1.4.67\PIC32CM1216MC00032\atdf\PIC32CM1216MC00032.atdf
